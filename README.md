@@ -1,3 +1,5 @@
+https://tkdgus0782.github.io/htmlGameTemplate/
+
 # htmlGameTemplate
 
 my own html game template!!
